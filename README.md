@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ranjith
+# 👋 Hi, I'm Haris Kumar K
 
 BTech AI&DS Student
 
