@@ -29,7 +29,7 @@ BTech AI&DS Final Year Student
 
 Happy coding!
 
-[![Haris Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarisKumar2812&bg_color=171618&color=d1d4d7&line=4e9e4c&point=d3cfd3&area=true&hide_border=true)]
+![Haris Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarisKumar2812&bg_color=171618&color=d1d4d7&line=4e9e4c&point=d3cfd3&area=true&hide_border=true)
 
 
 
