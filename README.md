@@ -21,7 +21,7 @@ BTech AI&DS Final Year Student
 
 ### My Codingplatforms Profile:
 
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ranjith_a_k/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/hariskumar_k/)
 
 
 
