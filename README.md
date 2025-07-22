@@ -25,7 +25,7 @@ BTech AI&DS Final Year Student
 
 
 
-<p> <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=ranjith_a_k" alt="GFG stats"/></a></p>
+<p> <a href="https://www.geeksforgeeks.org/user/ranjith_a_k/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=hariskumar_k" alt="GFG stats"/></a></p>
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ranjith_ak/)
 
